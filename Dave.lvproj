@@ -27,6 +27,7 @@
 		<Item Name="Seg_2_discharging.vi" Type="VI" URL="../Seg_2_discharging.vi"/>
 		<Item Name="Set_CC_Get_Voltage.vi" Type="VI" URL="../Lib/Set_CC_Get_Voltage.vi"/>
 		<Item Name="TCP_IP_N6705B_Press_back_button.vi" Type="VI" URL="../TCP_IP_N6705B_Press_back_button.vi"/>
+		<Item Name="TCP_IP_N6705B_Press_Run_stop_button.vi" Type="VI" URL="../TCP_IP_N6705B_Press_Run_stop_button.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="//Mac/Home/Desktop/Untitled 1.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="/C/Dropbox/Dropbox/Raspberry Pi 3 LabVIEW/Project_research/Untitled 1.vi"/>
 		<Item Name="Untitled 2.vi" Type="VI" URL="//Mac/Home/Desktop/Untitled 2.vi"/>
@@ -75,7 +76,6 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
-			<Item Name="Convert_TCP_instrument_name_to_IP.vi" Type="VI" URL="../../GitHub_Duong/FW_AUTO_TESTING_SYS/HTTP_N6705B/Convert_TCP_instrument_name_to_IP.vi"/>
 			<Item Name="Intial_N6705B_001.vi" Type="VI" URL="../Lib/Intial_N6705B_001.vi"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -98,7 +98,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{833FC0A3-5B53-4396-9E39-3BCF49082135}</Property>
-				<Property Name="Bld_version.build" Type="Int">25</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Battery Tester.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Battery Tester/Battery Tester.exe</Property>
